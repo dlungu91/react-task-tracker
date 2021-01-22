@@ -2,7 +2,7 @@ const Button = ({ color, text, onClick}) => {
 
     return (
         <div>
-            <button onClick={onClick} style={{backgroundColor: color}} text={text} className='btn'>Add</button>
+            <button onClick={onClick} style={{backgroundColor: color}} text={text} className='btn'>{text}</button>
         </div>
     )
 }
