@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Sharon's Valentines gift payment",
+      "day": "Jan 26th 2021 at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Birthday Diner for Sharon",
+      "day": "Apr 4th 2021 at 7:30pm",
+      "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "Wedding day!",
+      "day": "jul 20th 2022 at 10:00am",
+      "reminder": true
+    },
+    {
+      "text": "Propose to Sharon",
+      "day": "Sep 22nd 2021 at 9:00pm",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "Call Mrs. Lungu",
+      "day": "Jan 22nd 2021 at 9:00pm",
+      "reminder": false,
+      "id": 7
+    },
+    {
+      "text": "Order shisha for Valentin's day",
+      "day": "Feb 13th 2021 at 2:45pm",
+      "reminder": true,
+      "id": 8
+    }
+  ]
+}
